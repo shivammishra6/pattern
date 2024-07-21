@@ -1,0 +1,7 @@
+/**
+ * solidRectangle
+ */
+public class solidRectangle {
+
+    
+}
